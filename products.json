@@ -1,0 +1,23 @@
+[
+  {
+    "id": "p1",
+    "name": "T-Shirt",
+    "price": 499,
+    "category": "Apparel",
+    "inStock": true
+  },
+  {
+    "id": "p2",
+    "name": "Sneakers",
+    "price": 1299,
+    "category": "Footwear",
+    "inStock": false
+  },
+  {
+    "id": "p3",
+    "name": "Cap",
+    "price": 199,
+    "category": "Apparel",
+    "inStock": true
+  }
+]
